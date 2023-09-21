@@ -1,0 +1,1 @@
+dicionario = {"piu": 2, "lala":3, "piupiu":4}
